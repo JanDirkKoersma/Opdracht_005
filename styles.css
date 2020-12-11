@@ -1,0 +1,38 @@
+body { 
+    color: red;
+    padding: 20px;
+    }
+
+.black-border {
+    border: 5px solid black;
+}
+
+.green-background {
+    background-color: green;
+}
+
+main {
+    border: 5px red solid;
+    margin: 10px 10px;
+    }
+
+header { 
+    border: 5px blue solid;
+    margin: 10px 10px;
+    }
+
+footer { 
+    width: 50%;
+    margin: auto 
+  } 
+
+ li {
+    display: inline;
+  }
+  
+
+
+    
+  
+
+  
